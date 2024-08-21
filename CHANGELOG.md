@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.6.3](https://github.com/zylon-ai/private-gpt/compare/v0.6.2...v0.6.3) (2024-08-21)
+
+
+### Bug Fixes
+
+* naming image and ollama-cpu ([#2056](https://github.com/zylon-ai/private-gpt/issues/2056)) ([89477ea](https://github.com/zylon-ai/private-gpt/commit/89477ea9d3a83181b0222b732a81c71db9edf142))
+* Rectify ffmpy poetry config; update version from 0.3.2 to 0.4.0 ([#2062](https://github.com/zylon-ai/private-gpt/issues/2062)) ([7603b36](https://github.com/zylon-ai/private-gpt/commit/7603b3627d91aed1cce2e1ae407fec11ca1ad132))
+
 ## [0.6.2](https://github.com/zylon-ai/private-gpt/compare/v0.6.1...v0.6.2) (2024-08-08)
 
 
